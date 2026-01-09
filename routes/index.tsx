@@ -29,6 +29,7 @@ loadIcons([
   "logos:mariadb-icon",
   "skill-icons:cassandra-light",
   "skill-icons:docker",
+  "logos:matlab", // <-- agregado
 ]);
 
 function Hero() {
