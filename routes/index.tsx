@@ -76,7 +76,7 @@ function Values() {
     {
       title: "Collaboration and Communication",
       description:
-        "I excel in team environments and communicate effectively with stakeholders.",
+        "arremengalaaarempujalasi",
       image: "/img/pexels-fauxels-3184418.webp",
     },
   ];
