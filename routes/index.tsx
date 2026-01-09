@@ -39,7 +39,7 @@ function Hero() {
           <TypingAnimation
             strings={[
               '"Hello, World!"',
-              "I'm a developer.",
+              "I'm a Photonics and Electronics engineer.",
             ]}
             autoStart={true}
           />
