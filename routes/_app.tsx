@@ -65,7 +65,7 @@ export default function App({ Component }: PageProps) {
       icon: "fa-brands:github",
     },
     {
-      name: "Twitter",
+      name: "LOOOOOOOOOOOOOOL",
       url: "https://twitter.com/ScaredToCompile",
       icon: "fa-brands:twitter",
     },
