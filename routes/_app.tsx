@@ -65,11 +65,6 @@ export default function App({ Component }: PageProps) {
       icon: "fa-brands:github",
     },
     {
-      name: "LOOOOOOOOOOOOOOL",
-      url: "https://twitter.com/ScaredToCompile",
-      icon: "fa-brands:twitter",
-    },
-    {
       name: "LinkedIn",
       url: "https://www.linkedin.com/in/michael-pascal-pfister",
       icon: "fa-brands:linkedin",

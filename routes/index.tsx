@@ -17,7 +17,7 @@ loadIcons([
   "logos:php",
   "logos:typescript-icon",
   "skill-icons:react-dark",
-  "devicon:nextjs",
+  "devicon:nextjs","logos:matlab", // <-- agregado
   "skill-icons:nuxtjs-dark",
   "logos:nestjs",
   "logos:fresh",

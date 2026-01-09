@@ -3,7 +3,6 @@ import axios from "axios";
 import { useEffect, useState } from "preact/hooks";
 
 // preload icons
-loadIcon("fa6-brands:dev");
 loadIcon("ri:dice-line");
 
 function toggleTheme(themes: string[]) {
@@ -27,11 +26,6 @@ export default function AppBar() {
   return (
     <nav class="flex justify-between items-center p-2">
       <a href="/" class="text-xl font-bold flex items-center">
-        <Icon
-          icon="fa6-brands:dev"
-          width="none"
-          height="none"
-        />
         Portfolio
       </a>
       <ul class="flex gap-2">
