@@ -66,7 +66,7 @@ export default function App({ Component }: PageProps) {
     },
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/michael-pascal-pfister",
+      url: "https://www.linkedin.com/in/miguel-gerardo-sandoval-campos/",
       icon: "fa-brands:linkedin",
     },
   ];
